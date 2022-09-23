@@ -1,7 +1,7 @@
 version=1
 id=2866730692
 title=Hat And Glasses No Drop - Universal Patch
-description=[img]https://i.imgur.com/fX06eyZ.mp4[/img]
+description=[img]https://i.imgur.com/HPmAdsz.gif[/img]
 description=
 description=The title is a bit misleading, this mod not only stops hats and glasses from dropping when you fall.
 description=It stops any kind of equippable clothing from dropping to the ground, glasses, masks, hats, anything.
