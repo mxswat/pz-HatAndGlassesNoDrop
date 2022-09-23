@@ -11,5 +11,6 @@ description=
 description=So, don't ask if it works with BRITA, it does. Don't ask if it works with AuthenticZ, it does. 
 description=
 description=As our lord and saviour said once "It just works"
+description=Sauce: https://github.com/mxswat/pz-HatAndGlassesNoDrop
 tags=Build 41;Balance;Clothing/Armor;Items;Misc;Silly/Fun
 visibility=public
